@@ -7,3 +7,4 @@ def get_selenium_version():
     except Exception as e:
         print("An error occurred:", e)
         return None
+        chromedriver.exe
