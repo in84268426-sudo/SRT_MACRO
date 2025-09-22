@@ -14,11 +14,11 @@ chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
 
 ############# 자동 예매 원하는 설정으로 변경 ##############
 
-member_number = "0000000000" # 회원번호
-password= "password" # 비밀번호
+member_number = "2583761879" # 회원번호
+password= "hjc3690712@" # 비밀번호
 arrival = "동대구" # 출발지
 departure = "수서" # 도착지
-standard_date = "20240506" # 기준날짜 ex) 20221101
+standard_date = "20250926" # 기준날짜 ex) 20221101
 standard_time = "12" # 기준 시간 ex) 00 - 22 // 2의 배수로 입력
 
 """
