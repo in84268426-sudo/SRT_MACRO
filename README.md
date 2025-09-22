@@ -28,4 +28,3 @@ pip install selenium
 
 - 같은 IP로 수많은 요청을 보냈을 때 SRT의 자체 보안툴에서 해당 IP를 차단하는 케이스가 감지되었습니다. 이러한 현상을 방지하기 위해 VPN 사용 환경을 권장합니다.
 - 반드시 본인이 사용하는 크롬 버전에 맞는 chromedriver.exe 파일을 사용하여야 합니다.
-pip install selenium
